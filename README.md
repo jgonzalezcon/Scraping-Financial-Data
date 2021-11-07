@@ -9,7 +9,9 @@ La práctica ha sido realizada a título individual por José Antonio González 
 Ficheros del código fuente
 
 main.py: archivo de python donde se inicia todo el proceso de scraping. Es el archivo principal del programa.
+
 DataScraper.py: contiene la implementación de la clase DataScraper cuyos métodos permitirán realizar las labores de scraping para la obtención de los datos.
+
 DataOrganizer.py: contiene la implementación de la clase DataOrganizer cuyos métodos permitirán realizar todas las acciones necesarias para la creación del archivo de datos csv.
 
 Recursos
